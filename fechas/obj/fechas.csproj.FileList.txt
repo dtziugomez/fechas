@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\fechas.Form1.resources
+obj\Debug\fechas.Properties.Resources.resources
+obj\Debug\fechas.csproj.GenerateResource.Cache
+bin\Debug\fechas.exe
+bin\Debug\fechas.pdb
+obj\Debug\fechas.exe
+obj\Debug\fechas.pdb
